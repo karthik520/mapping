@@ -1,0 +1,31 @@
+h1{
+    background-color: rgb(80, 220, 206);
+    color: blue;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box1{
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+}
+#box2{
+    background-color: rgb(129, 255, 127);
+    height: 50px;
+    width: 50px;
+}
+#box3{
+    background-color: rgb(219, 127, 255);
+    height: 50px;
+    width: 50px;
+}
+body{
+    background-image: url('Cricket-bat-ball.webp');
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h2{
+    text-shadow: 1px 1px 1px coral -1px -1px 2px,cornflowerblue;
+    margin-left: 40;
+}
